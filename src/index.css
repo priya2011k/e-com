@@ -80,8 +80,7 @@
   
   .header_nav {
     max-width: 1184px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding: 8px 20px;
     margin: 0 auto;
   }
   

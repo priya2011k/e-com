@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div>
       <header>
-        <section className='head'>
+        <section className='head py-3'>
           <div className="head_m">
             <div className="left">
               <div className="logo">
